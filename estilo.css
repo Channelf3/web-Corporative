@@ -291,6 +291,12 @@ padding: 10px 0px;
 
 img{
     animation: float 3s linear infinite;
+
+}
+
+body{
+    background-color: #bce0bc;
+    
 }
 
 @keyframes float{
